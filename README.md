@@ -6,3 +6,4 @@
 - Fetch the date on which the conversion rates are last updated
 - Disable the second text field (Or make it read only)
 - Make better UI/UX design
+- Push into the final production on vercel/netlify
